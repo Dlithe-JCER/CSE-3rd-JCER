@@ -23,12 +23,11 @@ Each mini project is organized module-wise and follows concepts such as basic sy
   - [12. Linked List](#12-linked-list)
 - [📂 Project Structure](#-project-structure)
 - [▶️ How to Run](#️-how-to-run)
-- [🛠 Technologies Used](#-technologies-used)
-- [📜 License](#-license)
+
 
 ---
 
-# Module 1: Python Programming
+# PART 1: Python Programming
 
 ## 1. Introduction to Python
 ### 📌 Topics Covered
@@ -120,7 +119,7 @@ Update marks, generate topper file, store results using text files.
 
 ---
 
-# Module 2: Data Structures
+# PART 2: Data Structures
 
 ## 8. Introduction to DS
 - Linear vs non-linear  
