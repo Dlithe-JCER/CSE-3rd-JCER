@@ -38,7 +38,8 @@ Each mini project is organized module-wise and follows concepts such as basic sy
 - Programming conventions  
 
 ### 🧪 Mini Project
-**Expense Tracker**  
+
+<a href='Expense_Tracker.py'>Expense Tracker</a>
 Logs daily expenses, calculates total, and checks against a monthly budget.
 
 ---
@@ -51,7 +52,7 @@ Logs daily expenses, calculates total, and checks against a monthly budget.
 - Type-casting  
 
 ### 🧪 Mini Project
-**Student Info Manager**  
+<a href="Student_Management_System.py">Student Info Manager </a>
 Stores student details using lists, tuples, sets, and dictionaries.
 
 ---
