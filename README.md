@@ -149,5 +149,50 @@ Navigate forward and backward.
 
 ## 12. Linked List
 ### 🧪 Mini Project
-**Music Playlist System**  
-Create, delete, and navigate songs in a linked list.
+
+
+# 📂 Project Structure
+
+Python-Mini-Projects/
+│
+├── Module1/
+│ ├── 01_Expense_Tracker/
+│ ├── 02_Student_Info_Manager/
+│ ├── 03_ATM_Simulator/
+│ ├── 04_Form_Validator/
+│ ├── 05_Advanced_Calculator/
+│ ├── 06_Library_Management_System/
+│ └── 07_Student_Report_Generator/
+│
+├── Module2/
+│ ├── 08_Stack_Undo_Feature/
+│ ├── 09_Queue_Ticket_System/
+│ ├── 10_Deque_Browser_History/
+│ └── 11_LinkedList_Music_Playlist/
+│
+└── README.md
+
+yaml
+Copy code
+
+---
+
+# ▶️ How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/<your-username>/<repo-name>.git
+
+**Navigate to any project folder:**
+cd Module1/03_ATM_Simulator
+
+**Run the Python file:**
+python main.py
+
+**🛠 Technologies Used**
+Python 3.x
+File Handling
+OOP Concepts
+Data Structures (Stack, Queue, LinkedList)
+Collections Module (Deque)
+navigate songs in a linked list.
