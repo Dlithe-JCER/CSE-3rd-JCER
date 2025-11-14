@@ -7,15 +7,15 @@ Each mini project is organized module-wise and follows concepts such as basic sy
 
 ## 📌 Table of Contents
 
-- [Module 1: Python Programming](#module-1-python-programming)
+- [PART 1: Python Programming](#module-1-python-programming)
   - [1. Introduction to Python](#1-introduction-to-python)
   - [2. Basic Syntax and Data Types](#2-basic-syntax-and-data-types)
   - [3. Conditional and Looping Statements](#3-conditional-and-looping-statements)
-  - [4. Error Handling](#4-error-handling)
-  - [5. Functions](#5-functions)
-  - [6. Object-Oriented Programming](#6-object-oriented-programming)
-  - [7. File Handling](#7-file-handling)
-- [Module 2: Data Structures](#module-2-data-structures)
+  - [4. Functions](#5-functions)
+  - [5. Error Handling](#4-error-handling)
+  - [6. File Handling](#7-file-handling)
+  - [7. Object-Oriented Programming](#6-object-oriented-programming)
+- [PART 2: Data Structures](#module-2-data-structures)
   - [8. Introduction to Data Structures](#8-introduction-to-data-structures)
   - [9. Stack](#9-stack)
   - [10. Queue](#10-queue)
