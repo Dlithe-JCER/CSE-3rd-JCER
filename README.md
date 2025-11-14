@@ -39,7 +39,7 @@ Each mini project is organized module-wise and follows concepts such as basic sy
 
 ### 🧪 Mini Project
 
-<a href='CSE-3rd-JCER/Module-1/Expense_Tracker.py'>Expense Tracker</a>
+Expense Tracker
 Logs daily expenses, calculates total, and checks against a monthly budget.
 
 ---
@@ -52,7 +52,7 @@ Logs daily expenses, calculates total, and checks against a monthly budget.
 - Type-casting  
 
 ### 🧪 Mini Project
-<a href="Student_Management_System.py">Student Info Manager </a>
+Student Info Manager 
 Stores student details using lists, tuples, sets, and dictionaries.
 
 ---
