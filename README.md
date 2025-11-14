@@ -39,7 +39,7 @@ Each mini project is organized module-wise and follows concepts such as basic sy
 
 ### 🧪 Mini Project
 
-<a href='Expense_Tracker.py'>Expense Tracker</a>
+<a href='./Module1/Expense_Tracker.py'>Expense Tracker</a>
 Logs daily expenses, calculates total, and checks against a monthly budget.
 
 ---
